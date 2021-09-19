@@ -18,3 +18,9 @@ String para registro geral de dados no IPFS (notas, dados de IoT, etc)
 
 ![image](https://user-images.githubusercontent.com/40278075/133942191-15b9f8fe-0970-4fc7-a9d2-5b09d38744fb.png)
 
+
+![image](https://user-images.githubusercontent.com/40278075/133942398-2b1517ff-bd2d-4de7-8b20-033f9704e013.png)
+
+
+
+
